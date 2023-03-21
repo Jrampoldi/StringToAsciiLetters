@@ -1,7 +1,6 @@
 #####################################################################
-# Assignment #7p1: Enter String	Programmer: Jourdan Rampoldi
-# Due Date: 			Course: CSC 2025 1N2
-# Last Modified: 
+# Program: Enter String.	Programmer: Jourdan Rampoldi
+# Last Modified: 03/ 21/ 2023
 #####################################################################
 # Functional Description: This program allows users to input a word and 
 # will print out all letters of that word. Any characters that do not that 
